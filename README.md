@@ -5,7 +5,7 @@
 
 ---
 
-## 👋 Hi, I’m **Fiza qureshi**
+## 👋 Hi, I’m **Fiza Muhammad Hanif**
 
 💡 Passionate about web development & problem-solving  
 🔭 Currently working on: Building real-world projects at **Jawan Pakistan’s Advanced Web Development Program**  
